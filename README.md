@@ -10,10 +10,10 @@ Placeholder for Beth's introductory text
 
 ## Table of contents
 
-* [A: Incoming materials](/a-incoming-materials)
-* [B: Recent acquisitions](/b-recent-acquisitions)
-* [C: Cataloging](/c-cataloging)
-* [D: MARC fields](/d-marc-fields)
+* [A: Incoming materials](/a-incoming-materials.md)
+* [B: Recent acquisitions](/b-recent-acquisitions.md)
+* [C: Cataloging](/c-cataloging.md)
+* [D: MARC fields](/d-marc-fields.md)
 
 ## Rose Library Collection Services documentation approval policy<a href="#anchor1"><sup>1</sup></a>
 
