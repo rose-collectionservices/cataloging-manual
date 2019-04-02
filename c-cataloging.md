@@ -1,6 +1,4 @@
-# General Procedures
-
-## C. Cataloging
+# C. Cataloging
 
 1.	Cataloging priorities are determined collaboratively by the Rare Book Cataloger, Accessioning and Collections Manager, and the Head of Collection Services on a flexible multi-year plan.
 2.	All materials published after 1801 for Rose Library are cataloged according to current RDA Guidelines and OCLC standards.

@@ -1,13 +1,21 @@
-# General Procedures
-
-## D. MARC Fields
+# D. MARC Fields
 
 1.	Currently Rose Library catalogers use MARC encoding format for bibliographic records. When copy cataloging from records in OCLC Connexion, exercise caution that the record is for the same item you have in hand.
 2.	Any records from Connexion for items after 1801 should be edited to comply with RDA Guidelines. This includes changing Fixed Fields, updating 260 to appropriate 264, adding appropriate RDA relator terms, checking that all contributors appear in 7xx fields.
 3.	Name and Subject Authorities should be checked for accuracy, and any uncontrolled names and subjects should be updated to controlled vocabulary if possible.
 4.	Any added name authorities, non-LCSH vocabulary (for example, RBMS thesaurus), binding notes or identifying marks notes that pertain specifically to the Rose copy should have $5 GEU as the final subfield. This protects these fields from being edited/deleted during batch updates and other catalog-wide processes.
 
-### A. 245/246 fields
+* [A. 245/246 fields](#a-245246-fields)
+* [B. 510 Fields](#b-510-fields)
+* [C. 562 Fields](#c-562-fields)
+* [D. 563 Fields](#d-563-fields)
+* [E. 500/590 fields](#e-500590-fields)
+* [F. 6xx Fields](#f-6xx-fields)
+* [G. 7xx Fields](#g-7xx-fields)
+* [H. Collection notes](#h-collection-notes)
+*
+
+### A. 245/246 Fields
 
 Add as many 246 fields as necessary to record parallel titles and variations between the title page title and the cover, spine, running and/or caption titles. Use discretion regarding the first indicator as to whether users need to *see* all the variants or only need to be able to use them in *searching*.
 
@@ -31,7 +39,7 @@ For binding terms help, use either the print or online version of Roberts and Et
 
 For rare books that are not artists’ books or modern editions (Danowksi), 563 notes are usually echoed in 655_7 terms from the RBMS vocabulary. The final subfield in 562 must be $5 GEU unless the binding information can apply to any copy of the item. This field is visible in DiscoverE.
 
-### E. 500/590 fields
+### E. 500/590 Fields
 
 In Rose Library records there are often extensive use of 5xx fields in order to record all the edition-specific and Rose item-specific characteristics of an item.
 
@@ -76,7 +84,7 @@ In Rose Library records there are often extensive use of 5xx fields in order to 
 
   e.	__Laid- in items__: Occasionally volumes will have additional items such as letters or newspaper clippings. If there is a manuscript collection that corresponds to the volume’s provenance, complete a “separated from” form for the item and give it to a member of Arrangement and Description so it can be added to the manuscript collection. If there is no corresponding manuscript collection the item should be transferred to Preservation so the laid-in item can be housed in acid-free paper and kept with the volume. In either case, add to, or add a 590 note detailing either that the item has moved to the manuscript collection (use the proper name of the collection), or that the volume has a letter/prospectus/program etc. laid in.
 
-### F. 6xx fields
+### F. 6xx Fields
 
 1.	Follow standard practice for assigning subject and genre fields. All Rose Library materials should have a minimum of one subject heading or genre/form term. However, the more access points catalogers can reasonably assign up to approximately six (6), the better. For more information on subject headings in general, please see the Subject Heading Manual  (SHM) section H180: [https://www.loc.gov/aba/publications/FreeSHM/H0180.pdf](https://www.loc.gov/aba/publications/FreeSHM/H0180.pdf)
 2. Any 655 fields that are specific to the Rose copy, such as RBMS vocabulary must have $5 GEU as the final subfield.
