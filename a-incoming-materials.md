@@ -1,10 +1,7 @@
-# Incoming Materials
+# A. Incoming Materials
 
-[A. Incoming Materials](#a-incoming-materials)
-  * [Paperwork](#paperwork)
-  * [Accessioning and cataloging verification](#accessioning-and-cataloging-verification)
-
-## A. Incoming Materials
+* [Paperwork](#paperwork)
+* [Accessioning and cataloging verification](#accessioning-and-cataloging-verification)
 
 All collection material should be received by the Accessioning and Collections Manager. The Accessioning and Collections Manager will retrieve the material from either the Rose Library mailroom on Level 10 or the main Woodruff Library mailroom on Level 2.
 
