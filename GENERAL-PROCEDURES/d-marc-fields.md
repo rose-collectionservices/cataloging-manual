@@ -101,3 +101,28 @@ In Rose Library records, there are often quite a few 7xx fields to capture names
 1.	Create added entry headings for all contributors to an expression, including authors, editors, writers of added content, publishers, and printers; or contributors to an item including bookbinders, inscribers, former owners, signers, etc.
 2.	All added entries should include $e with the appropriate RDA relator term. Use RDA vocabulary terms is standard local practice for Rose Library. For item level names, such as former owners, collectors, signers, inscribers, etc, add $5 GEU as the final subfield to protect those entries from overlay.
 3.	Use authorized forms if they are available, otherwise create a name using RDA Guidelines. If the contributor is considered significant enough to merit a new authority, complete cataloging and forward the item to the NACO cataloger (generally Rare Book Cataloger) for authority creation.
+
+### H. Collection notes
+
+A number of Rose Library collections records have additional added fields to identify the collection to which they belong.
+
+1. All named collections should have a 590 note that reads:
+
+    Stuart A. Rose Manuscript, Archives, & Rare Book Library copy from the library of…
+
+2.	All volumes from named collections that are received with the original collection should have 700_1 added entries, for example
+
+    Danowski, Raymond, $e collector $5 GEU
+    Billops, Camille, $e former owner.$5 GEU
+    Hatch, James V. $q (James Vernon),$d 1928-$ former owner.$5 GEU
+
+    This note should not be added to items that were added to a collection after the original collection items. This is particulary true of the Danowski items, many of which were not collected by Raymond Danowski but have been purchased subsequently by Rose Library.
+
+3.	Volumes donated by Stuart Rose also receive both a 590 and a 700:
+
+    Rose, Stuart, $e collector.
+
+4.	All items of the Danowski Literary and Poetry Library should have a 590 and also have a 710_2
+
+    590 _ _ Stuart A. Rose Manuscript, Archives, & Rare Book Library Danowski copy forms part of the Raymond Danowski Poetry Library.
+    710 2_Raymond Danowski Poetry Library (Emory University. General Libraries) $5 GEU
