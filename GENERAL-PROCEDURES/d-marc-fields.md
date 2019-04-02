@@ -70,9 +70,9 @@ In Rose Library records there are often extensive use of 5xx fields in order to 
 
   d.	__Additional distinguishing characteristics to note__:
 
-  i.	Presence of dust jacket
-  ii.	Paperback (if necessary to distinguish it from other copies)
-  iii.	Any imperfections, such as missing pages.
+  *	Presence of dust jacket
+  *	Paperback (if necessary to distinguish it from other copies)
+  *	Any imperfections, such as missing pages.
 
   e.	__Laid- in items__: Occasionally volumes will have additional items such as letters or newspaper clippings. If there is a manuscript collection that corresponds to the volume’s provenance, complete a “separated from” form for the item and give it to a member of Arrangement and Description so it can be added to the manuscript collection. If there is no corresponding manuscript collection the item should be transferred to Preservation so the laid-in item can be housed in acid-free paper and kept with the volume. In either case, add to, or add a 590 note detailing either that the item has moved to the manuscript collection (use the proper name of the collection), or that the volume has a letter/prospectus/program etc. laid in.
 
