@@ -13,7 +13,6 @@
 * [F. 6xx Fields](#f-6xx-fields)
 * [G. 7xx Fields](#g-7xx-fields)
 * [H. Collection notes](#h-collection-notes)
-*
 
 ### A. 245/246 Fields
 
