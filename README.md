@@ -14,6 +14,7 @@ Placeholder for Beth's introductory text
 * [B: Recent acquisitions](/b-recent-acquisitions.md)
 * [C: Cataloging](/c-cataloging.md)
 * [D: MARC fields](/d-marc-fields.md)
+* [E: Call numbers](/e-call-numbers.md)
 
 ## Rose Library Collection Services documentation approval policy<a href="#anchor1"><sup>1</sup></a>
 
